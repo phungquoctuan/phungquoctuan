@@ -39,8 +39,11 @@
   📊GitHub Stats :
 </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=phungquoctuan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phungquoctuan&theme=radical&hide_border=false)<br/>
+<div align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=phungquoctuan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=phungquoctuan&theme=radical&hide_border=false" />
+</div>
+<br>
 
 ---
   
